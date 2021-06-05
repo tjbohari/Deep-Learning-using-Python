@@ -1,0 +1,1 @@
+This folder contains images of SUV cars for the object classification. The images are scrapped from bing images using [Bulk Bing Image Downloader](https://github.com/ostrolucky/Bulk-Bing-Image-downloader).
